@@ -184,16 +184,6 @@
                                 }
                               },
                               {
-                                "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
-                                "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_accessibility_item_authorization",
-                                "settingInstanceTemplateReference": null,
-                                "choiceSettingValue": {
-                                  "settingValueTemplateReference": null,
-                                  "value": "com.apple.tcc.configuration-profile-policy_services_accessibility_item_authorization_0",
-                                  "children": []
-                                }
-                              },
-                              {
                                 "@odata.type": "#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance",
                                 "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_accessibility_item_coderequirement",
                                 "settingInstanceTemplateReference": null,
@@ -252,16 +242,6 @@
                                 "choiceSettingValue": {
                                   "settingValueTemplateReference": null,
                                   "value": "com.apple.tcc.configuration-profile-policy_services_bluetoothalways_item_allowed_true",
-                                  "children": []
-                                }
-                              },
-                              {
-                                "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
-                                "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_bluetoothalways_item_authorization",
-                                "settingInstanceTemplateReference": null,
-                                "choiceSettingValue": {
-                                  "settingValueTemplateReference": null,
-                                  "value": "com.apple.tcc.configuration-profile-policy_services_bluetoothalways_item_authorization_0",
                                   "children": []
                                 }
                               },
@@ -328,16 +308,6 @@
                                 }
                               },
                               {
-                                "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
-                                "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization",
-                                "settingInstanceTemplateReference": null,
-                                "choiceSettingValue": {
-                                  "settingValueTemplateReference": null,
-                                  "value": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization_0",
-                                  "children": []
-                                }
-                              },
-                              {
                                 "@odata.type": "#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance",
                                 "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_coderequirement",
                                 "settingInstanceTemplateReference": null,
@@ -393,16 +363,6 @@
                                 }
                               },
                               {
-                                "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
-                                "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization",
-                                "settingInstanceTemplateReference": null,
-                                "choiceSettingValue": {
-                                  "settingValueTemplateReference": null,
-                                  "value": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization_0",
-                                  "children": []
-                                }
-                              },
-                              {
                                 "@odata.type": "#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance",
                                 "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_coderequirement",
                                 "settingInstanceTemplateReference": null,
@@ -454,16 +414,6 @@
                                 "choiceSettingValue": {
                                   "settingValueTemplateReference": null,
                                   "value": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_allowed_true",
-                                  "children": []
-                                }
-                              },
-                              {
-                                "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
-                                "settingDefinitionId": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization",
-                                "settingInstanceTemplateReference": null,
-                                "choiceSettingValue": {
-                                  "settingValueTemplateReference": null,
-                                  "value": "com.apple.tcc.configuration-profile-policy_services_systempolicyallfiles_item_authorization_0",
                                   "children": []
                                 }
                               },
